@@ -5,6 +5,12 @@ Don's PathQuest is a visual pathfinding game built with Python and Pygame. This 
 
 ---
 
+<div align="center">
+  <img src="1.png" alt="Network Simulation Cover">
+</div>
+
+---
+
 ## 🎮 Features
 
 - 🔎 **Interactive Grid Interface**: Build barriers and choose start/end points with just a click.
@@ -15,6 +21,12 @@ Don's PathQuest is a visual pathfinding game built with Python and Pygame. This 
   - Right Click: Remove Start, End, or Barriers
   - `Spacebar`: Run the A* pathfinding algorithm
   - `C`: Clear the grid
+
+---
+
+<div align="center">
+  <img src="1.png" alt="Network Simulation Cover">
+</div>
 
 ---
 
@@ -37,4 +49,13 @@ The A* algorithm uses a priority queue and heuristic (Manhattan distance) to det
 
 - Python 3.x
 - `pygame` library
+
+
+---
+
+<div align="center">
+  <img src="1.png" alt="Network Simulation Cover">
+</div>
+
+---
 
