@@ -38,10 +38,3 @@ The A* algorithm uses a priority queue and heuristic (Manhattan distance) to det
 - Python 3.x
 - `pygame` library
 
-### 💻 Installation
-
-```bash
-git clone [https://github.com/yourusername/dons-pathquest.git](https://github.com/DewmikaSenarathna/Don-s_PathQuest.git)
-cd dons-pathquest
-pip install pygame
-python pathquest.py
