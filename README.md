@@ -3,6 +3,9 @@
 
 Don's PathQuest is a visual pathfinding game built with Python and Pygame. This interactive project demonstrates how algorithms like A* (A-Star) can be used to explore the shortest path between two points in a grid-based world. Whether you're an algorithm enthusiast, a game developer, or a curious learner, this project invites you to dive into the world of search strategies and intelligent navigation.
 
+
+***
+
 <div align="center">
   <img src="Logo.png" alt="Don's PathQuest">
 </div>
@@ -46,6 +49,7 @@ The A* algorithm uses a priority queue and heuristic (Manhattan distance) to det
 - Python 3.x
 - `pygame` library
 
+---
 
 <div align="center">
   <img src="Dons_Logo.png" alt="Don's PathQuest" width="300">
