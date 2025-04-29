@@ -41,7 +41,7 @@ The A* algorithm uses a priority queue and heuristic (Manhattan distance) to det
 ### 💻 Installation
 
 ```bash
-git clone https://github.com/yourusername/dons-pathquest.git
+git clone [https://github.com/yourusername/dons-pathquest.git](https://github.com/DewmikaSenarathna/Don-s_PathQuest.git)
 cd dons-pathquest
 pip install pygame
 python pathquest.py
