@@ -47,11 +47,10 @@ The A* algorithm uses a priority queue and heuristic (Manhattan distance) to det
 - `pygame` library
 
 
----
-
 <div align="center">
-  <img src="Dons_Logo.png" alt="Don's PathQuest">
+  <img src="Dons_Logo.png" alt="Don's PathQuest" width="150">
 </div>
+
 
 ---
 
